@@ -1,2 +1,3 @@
 # curso-html-css
-repositorio para el curso de informatica 
+
+creado por josué david cruz parra
