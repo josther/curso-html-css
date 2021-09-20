@@ -1,3 +1,3 @@
-# curso-html-css
+#curso-html-css
 
-creado por josué david cruz parra
+./creado por josué david cruz parra
